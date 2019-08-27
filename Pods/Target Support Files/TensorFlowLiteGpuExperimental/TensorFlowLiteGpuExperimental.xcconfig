@@ -1,0 +1,11 @@
+CONFIGURATION_BUILD_DIR = ${PODS_CONFIGURATION_BUILD_DIR}/TensorFlowLiteGpuExperimental
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/TensorFlowLiteGpuExperimental/Frameworks"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = '${SRCROOT}/Pods/TensorFlowLiteGpuExperimental/Frameworks/tensorflow_lite_gpu.framework/Headers'
+OTHER_LDFLAGS = $(inherited) -L ${SRCROOT}/Pods/TensorFlowLiteGpuExperimental/Frameworks/tensorflow_lite_gpu.framework -l"c++" -l"metal_delegate" -force_load ${SRCROOT}/Pods/TensorFlowLiteGpuExperimental/Frameworks/tensorflow_lite_gpu.framework/tensorflow_lite_gpu
+PODS_BUILD_DIR = ${BUILD_DIR}
+PODS_CONFIGURATION_BUILD_DIR = ${PODS_BUILD_DIR}/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_ROOT = ${SRCROOT}
+PODS_TARGET_SRCROOT = ${PODS_ROOT}/TensorFlowLiteGpuExperimental
+PRODUCT_BUNDLE_IDENTIFIER = org.cocoapods.${PRODUCT_NAME:rfc1034identifier}
+SKIP_INSTALL = YES
