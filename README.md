@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://makeml.app/img/logo_vector.svg" width=200px>
+<img src="https://makeml.app/img/logo_vector.svg" width=300px>
 </h1>
 
 [MakeML](https://makeml.app?utm=github_nails_segmentation) is a Developer Tool for Creating Object Detection and Segmentation Neural Networks without a Line of Code. It's built to make the training process easy to setup. It is designed to handle data sets, training configurations, markup and training processes — all in one place.
