@@ -178,7 +178,7 @@ NSString* FilePathForResourceName(NSString* name, NSString* extension) {
     
     float* output = interpreter->typed_output_tensor<float>(0);
     int class_count = 2;
-    unsigned int colors[2] = {  0000000000, additionalColor };//,0x4caf50 };
+    unsigned int colors[2] = {  0000000000, additionalColor };
     
     for (int index = 0; index<257*257; index++) {
         int classID = 0;
