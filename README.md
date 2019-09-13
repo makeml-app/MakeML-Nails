@@ -9,6 +9,10 @@
 
 See the [Tutorial](https://makeml.app/docs/nails_tutorial_intro?utm=github_nails_segmentation) for the training object segmentation model without a line of code in macOS desktop application.
 
+<div align="center">
+<img src="https://makeml.app/docs/assets/nails_adding_annotations.gif">
+</div>
+
 ## Using another .tflite model
 [![MakeML object detection and segmentation ML models](https://img.shields.io/static/v1?label=platform&message=iOS&color=blue)](https://makeml.app)    [![MakeML object detection and segmentation ML models](https://img.shields.io/static/v1?label=language&message=swift&nbsp;&#124;&nbsp;objective-c&color=green)](https://makeml.app)
 
