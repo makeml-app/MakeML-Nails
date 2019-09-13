@@ -17,7 +17,7 @@ For using MakeML Nails project with another .tflite file, add it to the project 
 NSString *modelPath = FilePathForResourceName(@"result_model", @"tflite");
 ```
 
-Change the number of classes:
+Change the number of classes and add colors to the array:
 ```
 int class_count = 2;
 unsigned int colors[class_count] = {  0000000000, additionalColor };
