@@ -13,7 +13,7 @@ Is an app example that shows how users can try on different nail polish colors. 
 ## Train Objects Segmentation .tflite model
 [![MakeML object detection and segmentation ML models](https://img.shields.io/static/v1?label=platform&message=macOS&color=blue)](https://makeml.app)
 
-See the [Tutorial](https://makeml.app/docs/nails_tutorial_intro?utm=github_nails_segmentation) for the training object segmentation model without a line of code in macOS desktop application.
+See the [Tutorial](https://makeml.app/docs/nails_tutorial_intro?utm=github_nails_segmentation) for the training object segmentation model without a line of code with macOS desktop application.
 
 <div align="center">
 <img src="https://makeml.app/docs/assets/nails_adding_annotations.gif">
