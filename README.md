@@ -25,10 +25,4 @@ unsigned int colors[class_count] = {  0000000000, additionalColor };
 
 ## Support
 
-[More Tutorials](https://makeml.app/tutorials?utm=github_nails_segmentation)
-
-[Full Documentation](https://makeml.app/docs/doc1?utm=github_nails_segmentation)
-
-[MakeML Chat](https://discordapp.com/invite/vgcG3Su)
-
-[Support page](https://makeml.app/support)
+[More Tutorials](https://makeml.app/tutorials?utm=github_nails_segmentation) | [Full Documentation](https://makeml.app/docs/doc1?utm=github_nails_segmentation) | [MakeML Chat](https://discordapp.com/invite/vgcG3Su) | [Support page](https://makeml.app/support)
