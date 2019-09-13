@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://makeml.app/img/logo_256.png">
-</div>
-
-<div align="center">
-  <img src="https://makeml.app/img/icon.png">
-</div>
+![MakeML object detection and segmentation](https://makeml.app/img/icon.png)
 
 [MakeML](https://makeml.app?utm=github_nails_segmentation) is Developer Tool for Creating Object Detection and Segmentation Neural Networks without a Line of Code.
 
