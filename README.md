@@ -6,10 +6,12 @@
 
 ## Train Objects Segmentation .tflite model
 [![MakeML object detection and segmentation ML models](https://img.shields.io/static/v1?label=platform&message=macOS&color=blue)](https://makeml.app)
+
 See the [Tutorial](https://makeml.app/docs/nails_tutorial_intro?utm=github_nails_segmentation) for the training object segmentation model without a line of code in macOS desktop application.
 
 ## Using another .tflite model
 [![MakeML object detection and segmentation ML models](https://img.shields.io/static/v1?label=platform&message=iOS&color=blue)](https://makeml.app)    [![MakeML object detection and segmentation ML models](https://img.shields.io/static/v1?label=language&message=swift&nbsp;&#124;&nbsp;objective-c&color=green)](https://makeml.app)
+
 For using MakeML-Nail project with another .tflite file just add it to project and change this line with your name of model.
 ```
 NSString *modelPath = FilePathForResourceName(@"result_model", @"tflite");
