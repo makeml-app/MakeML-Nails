@@ -5,7 +5,7 @@
 [MakeML](https://makeml.app?utm=github_nails_segmentation) is a Developer Tool for Creating Object Detection and Segmentation Neural Networks without a Line of Code. It's built to make the training process easy to setup. It is designed to handle data sets, training configurations, markup and training processes — all in one place.
 
 ## MakeML Nails
-Is an app example that shows how users can try on different nail polish colors. The machine learning model was trained for 3 hours with 100 photos.
+Is an app example that shows how users can try on different nail polish colors. The machine learning model was trained for 3 hours with 50 photos.
 <div align="center">
 <img src="https://makeml.app/docs/assets/nails_results_MakeML_2.gif">
 </div>
