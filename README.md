@@ -1,8 +1,6 @@
 ![MakeML object detection and segmentation](https://makeml.app/img/icon.png)
 
-[MakeML](https://makeml.app?utm=github_nails_segmentation) is a Developer Tool for Creating Object Detection and Segmentation Neural Networks without a Line of Code.
-
-[MakeML](https://makeml.app?utm=github_nails_segmentation) is built to make the training process easy to setup. It is designed to handle data sets, training configurations, markup and training processes — all in one place.
+[MakeML](https://makeml.app?utm=github_nails_segmentation) is a Developer Tool for Creating Object Detection and Segmentation Neural Networks without a Line of Code. It's built to make the training process easy to setup. It is designed to handle data sets, training configurations, markup and training processes — all in one place.
 
 ## Train Objects Segmentation .tflite model
 [![MakeML object detection and segmentation ML models](https://img.shields.io/static/v1?label=platform&message=macOS&color=blue)](https://makeml.app)
